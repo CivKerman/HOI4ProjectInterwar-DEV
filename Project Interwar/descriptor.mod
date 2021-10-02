@@ -1,0 +1,16 @@
+version="0.1Alpha"
+picture="thumbnail.png"
+tags={
+	"Alternative History"
+	"Map"
+	"Military"
+	"National Focuses"
+	"Events"
+	"Technologies"
+	"Gameplay"
+	"Historical"
+	"Ideologies"
+}
+name="Project Interwar"
+supported_version="1.10.8"
+remote_file_id="2614005627"

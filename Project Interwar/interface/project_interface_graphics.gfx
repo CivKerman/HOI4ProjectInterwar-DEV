@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_project_interwar_bookmark"
+		texturefile = "gfx/interface/select_date_1918.dds"
+	}
+
+}

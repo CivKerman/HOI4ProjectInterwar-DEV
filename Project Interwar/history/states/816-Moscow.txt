@@ -1,0 +1,25 @@
+state={
+	id=816
+	name="STATE_816"
+	history={
+		owner=RED
+		add_core_of=RED
+		victory_points = {
+			6380 50 
+		}
+		
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+			air_base = 3
+
+		}
+	}
+	provinces={
+		6380 
+	}
+	manpower=1682054
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+}
