@@ -1,0 +1,17 @@
+version="0.1Alpha"
+picture="thumbnail.png"
+tags={
+	"Alternative History"
+	"Map"
+	"Military"
+	"National Focuses"
+	"Events"
+	"Technologies"
+	"Gameplay"
+	"Historical"
+	"Ideologies"
+}
+name="Project Interwar"
+supported_version="1.10.8"
+path="C:/Users/civke/Documents/Paradox Interactive/Hearts of Iron IV/mod/Project Interwar"
+remote_file_id="2614005627"
