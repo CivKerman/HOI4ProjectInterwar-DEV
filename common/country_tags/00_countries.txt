@@ -1,0 +1,5 @@
+CAN	= "countries/Canada.txt"
+USA = "countries/USA.txt"
+RED = "countries/Red_Army.txt"
+WHT = "countries/White_Army.txt"
+ENG = "countries/United_Kingdom.txt"
