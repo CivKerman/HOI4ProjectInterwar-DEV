@@ -5,11 +5,11 @@ state={
 		owner=FRA
 		add_core_of=FRA
 		victory_points = {
-			11506 50 
+			11506 30 
 		}
 	}
 	provinces={
-		11506 
+		11506 9534 
 	}
 	manpower=145416
 	buildings_max_level_factor=1.000
